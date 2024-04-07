@@ -1,0 +1,2 @@
+# Leonid
+Leonid has the power to hear everything within a certain range of himself regardless of volume and intervening obstacles or noises. He can also manipulate particular sounds, from absolute silence up to twice as loud. He also has the ability to teleport to anywhere within earshot of a given sound by using the echoes to gradually phase out over the course of about two seconds, giving him Thinker, Stranger, and Mover ratings, respectively. In application, Leonid described himself as one of the "active guys" of Vegas Dark.

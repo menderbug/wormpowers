@@ -1,0 +1,8 @@
+# Canary
+Canary's power makes her a superlatively-good singer, but it also makes anyone who hears her song susceptible to suggestions. This Master aspect of her power is capable of affecting anyone that hears her singing and is powerful enough for the PRT to issue her a threat rating of Master 8. An issue with her powers is that it doesn't come packaged with any kind of instinctive ability to tell when someone is under the influence of her Master ability, which can accidentally cause words that were intended to be part of an ongoing conversation to turn into a power-enforced command. This caused an unfortunate incident when she inadvertently told someone who she was unaware was currently under the influence of her power to "Go fuck yourself!".
+
+Her power does not only make those who hear it susceptible to her suggestions. Anyone can give suggestions. These suggestions have a wide range of applications. From physical reactions such as being told to nod ones head to involuntary actions. Being told to calm down will calm an affected subject even if the situation is immediately dangerous to the individual.
+
+The suggestions tend to be taken extremely literally. The above incident for example. Another example is one subject being told to hold still results in the subject attempting to hold his breath until the suggestion was amended with additional commands allowing breathing. Whether he would have suffocated or passed out from oxygen deprivation or taken in a breath at the last possible moment is left unclear. Forgetting is also a possibility 
+
+Her power is severely muted when transferred by technology. Even minor effects can be dangerous of course, as can be seen in the descriptions of some of her raw vocal recordings.

@@ -1,0 +1,4 @@
+# Nix
+Nix can create illusions similar to those produced by her sister, she can control these images, having them move and alter them. However, when these illusions are disrupted they turn into harmless smoke as opposed to the poison gas produced by Nyx. Walking through these illusions were enough to break them. Other possible powers are unknown, but as she is easily trapped by Golem's stone hand, it can be assumed that she is not a powerful Brute, Changer or Mover. As such, she is not a frontline combatant.
+
+It is unknown if her gas has the same properties as Nyx's, while it is not noted to the possibility exists that she is actively repressing the effect. She says that her illusions are permanent, able to function even if she is knocked out or sleeping, but this claim has not been tested.

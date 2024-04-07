@@ -1,0 +1,8 @@
+# Brandish
+Carol Dallon has the ability to create various simple weapons and martial shields out of burning 'hard' light, or light augmented by concussive or kinetic force. Further she can condense herself into a bouncing sphere of hard light, effectively invincible and untouchable at the cost of all mobility.
+
+She described her ball form as "condensed into a point, surrounded by a layered, spherical force field". It could fly away whenever it was hit, or she could exercise some control over the direction. She could choose what posture she was in when transitioning between forms, allowing her to more easily recover from falls. It was orange-yellow in color. While in her ball form, Brandish is in a kind of 'stasis'. This allows her to do a combination attack with Flashbang, in which she takes some of his timed grenades into her ball form and unleashes them when she comes out. While in her Breaker form, Brandish cannot see or hear anything, only able to track the world around her with another kind of awareness. This essentially meant she was trapped in the dark whenever she used this form, which just so happens to be her exact phobia.
+
+Brandish is martial combatant capable of delivering explosively powerful strikes or letting her weapons shear through flesh and bone without resistance, burning and cauterizing any wound. They could slash through Marquis' bone plates and could even shear through steel. The weapons "looked as though they were made from lightning." They could be a sword, a pair of swords, a crude bludgeon, or a pair of axes, among other things.. Brandish can control how damaging the specific instance of weapon is.
+
+She has some resistance to blinding lights, likely so she isn't blinded by the light of her own creations.

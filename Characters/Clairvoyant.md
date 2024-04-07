@@ -1,0 +1,7 @@
+# Clairvoyant
+Clairvoyant is capable of viewing wide areas or multiple things at once, viewing other universes, whole cities, anyone or everyone. He could recognize people asking for Doormaker to open a portal anywhere in the multiverse.
+
+He can grant visions of multiple, entire Alternate Earths to the people that he is in physical contact with, but breaking contact leaves the recipient immediately unconscious and requiring bed rest for a week, dazed and weak. The effect "overrides" all other perception abilities. Long-term exposure to his abilities atrophies the user's senses, as with Doormaker. Using the Clairvoyant's power required a degree of skill to handle the overload of detail. The effect was "gradual", taking time to make the target's awareness unfold.
+
+The Clairvoyant's ability could be used offensively, forcing remote viewing on a person with a touch and then withdrawing it, rendering them unconscious.
+A few people are immune to Clairvoyant. Contessa,, Shamrock and the Dealer are mentioned as being able to evade Clairvoyant's ability. The Clairvoyant's vision could also be blocked by some tinker devices, producing noticeable blind spots; one such was possessed by Teacher. Scion was not a blindspot for the Clairvoyant. Clairvoyant's power was confined to the limits of Earth's atmosphere. The user could choose not to observe specific areas if they wished, excluding them from their awareness.

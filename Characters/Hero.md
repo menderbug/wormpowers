@@ -1,0 +1,2 @@
+# Hero
+Hero was considered to be the preeminent Tinker of his day. Hero's specialization was not known because he lived before Tinker specializations were considered, but Legend correctly theorized that Hero specialized in wavelength manipulation, similar to the stilling powers that Zion and Eden employed, with broad applications stemming from few restrictions on his shard. His creations included a helmet-camera, a disintegration gun, a jetpack, sonic weapons, small, surprisingly effective power sources and explosives, a raygun, and jet boots.

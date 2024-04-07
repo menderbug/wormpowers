@@ -1,0 +1,14 @@
+# Rachel Lindt
+Illustration by sandara on deviantart
+Rachel's most noticeable ability is to empower dogs to vastly increased size - on the order of three thousand or more pounds - enhanced strength, durability, agility, and an asymmetrical covering of bony plates, spikes, exposed muscles, calcified flesh, and prehensile tails. Her power has affected her ability to socialize with humans, having hardwired it to better understand canines. This wiring may have also given her some resilience to certain Master effects. Bitch herself is rated as a Master, given that she is effectively creating enhanced minions.
+
+Rachel is capable of using her power at range, and on multiple dogs at once. She cannot, however, automatically control the dogs that she empowers. She has gotten around this drawback by training her dogs to respond to whistles and specific commands. She is quite adept at a variety of whistles that she uses to command her dogs. She has also shown some skill with her power; as she participated in more fights her dogs steadily gained more durability, to the point of being able to take lightning bolts from Behemoth. The animals maintain some sensation but are largely resistant to pain. Though able to create additional mass from seemingly nowhere, the animals Rachel empowers are still bound by conventional physics. Any strength a canine gains from her empowerment is given a disproportionate amount of mass which can end up restricting their movements. As such Rachel needs to be careful how much additional mass she feeds to dogs as they lose agility and other benefits the larger they get.
+
+Her power also affects other canines, such as wolves. In fact, her power seems to work far more effectively on wolves than domestic dogs; the transformations of her wolf were sleeker, stronger, more symmetrical, caused less strain to herself and the wolf even when she worked the transformation faster. The downside of that, however, is that wild canines take far more effort to train, not having been domesticated over generations. Rachel kept Bastard, her wolf, with her constantly for the first few years, and even then the training might not have been effective if she hadn't raised it from a puppy. It is not shown how her power would affect other canines, like coyotes or dingoes. 
+
+Rachel feels her power as an internal vibration radiating outward, reverberating in her dogs. Its use tires Rachel out, and the faster she uses it, the faster she tires. Therefore, she prefers having time to slowly increase her dogs' sizes, rather than having to rush the job. 
+
+At the beginning of Worm, Bitch has three dogs that are trained to obey her while under the effects of her power: Brutus, Judas, and Angelica. This number increased exponentially as she gained the resources to rescue, care and train more dogs.
+
+## Equipment
+Rachel typically uses chains and similar leads to control her dogs.
