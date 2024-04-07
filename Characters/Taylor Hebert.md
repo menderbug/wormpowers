@@ -4,7 +4,7 @@ Taylor possesses a form of telepathy that transmits and recieves information via
 ## Double Trigger
 According to Number Man, Taylor has has a Double Trigger, where a person triggers twice back-to-back; the sheer trauma of her first trigger causing a second one. As such, she is unable to have a Second Trigger to become more powerful, since she already has one.
 
-has she not undergone this double trigger, her bug control would have been much cruder and less skilled, being like how Chicken Little controls birds but with insects instead.
+Had she not undergone this double trigger, her bug control would have been much cruder and less skilled, being like how Chicken Little controls birds but with insects instead.
 
 Based off what has been shown of Aiden's control, this could likely mean that she'd be unable to precisely operate and her insects, instead controlling them more like a 'wave' that she 'pushes' and 'pulls' using a sort of invisible 'rally points' with the capacity to give additional orders like to attack on the way while the bugs are being drawn to the point, and likely cannot control them and co-opt their senses at the same time. Additionally, any fine and precise control of insects she does have would most likely be limited to either a single bug or at least a much smaller number than her full swarm, at the cost of becoming unable to have any control whatsoever of all the other insects in range, instead of being able to mircomanage and skillfully direct all the insects in her range like in the story proper. 
 
@@ -65,7 +65,7 @@ Taking command of Doormaker and Clairvoyant, Taylor is able to round up and cont
 
 Though a full list of creatures Taylor can now control is unknown, there are a number of beings she cannot that is known. She could not control Zion or the Endbringers, nor the Three Blasphemies. She seemed to be unable to control Imp or Dragon for unstated reasons. She is temporarily able to control Glaistig Uaine, but she is able to escape Taylor's control by swapping the control on her over to one of her ghost projections. Finally, she did not control the Sleeper, though this is not due to an inability to control him but rather because doing so would be more troublesome than it is worth.
 
-has Jack Slash been active at the time, his secondary power would be better at sabotaging her compared with the typical parahuman.
+Had Jack Slash been active at the time, his secondary power would be better at sabotaging her compared with the typical parahuman.
 
 ## Shard
 Taylor's powers are the result of receiving a crippled Administrator shard from Scion. In its non-crippled form, Scion uses the Administrator to coordinate and control his shards such as deciding their configurations before handing them out. Unlike Eidolon's shard (i.e., Eden's counterpart shard to the Administrator) which can administrate shards, Scion intentionally cripples Taylor's shard before handing it out and even largely destroys it to completely prevent its host from using it in this fashion during the Cycle.

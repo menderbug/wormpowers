@@ -9,7 +9,7 @@ He selects what the imbuement does subconsciously; it is always tied to the obje
 
 His items cannot be used by someone without this "charge", preventing them from being stolen or used against him.
 
-has he survived until Gold Morning, he would have been almost as powerful as Legend. Not as mobile or versatile at range, but fast and an artillery powerhouse, and almost as durable as Alexandria. It is implied that he could eventually grow powerful enough to annihilate a large area, similar to a nuclear bomb.
+Had he survived until Gold Morning, he would have been almost as powerful as Legend. Not as mobile or versatile at range, but fast and an artillery powerhouse, and almost as durable as Alexandria. It is implied that he could eventually grow powerful enough to annihilate a large area, similar to a nuclear bomb.
 
 ## Arclance
 A spear that looks as if it is made of white lightning. The weapon could extend as far as he needed, elongating faster than the eye could follow. It is something between a solid and an energy, combining traits of both; people struck by it experienced a taser-like electrical charge in addition to the physical force.

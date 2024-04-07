@@ -1,0 +1,2 @@
+# Toggle
+Not much is known about Toggle's powers. When Weaver first meets her, Toggle is described as having "five shadowy silhouettes of herself" that sat around her. Lights flare when she strikes one of Breed's parasites with her baton, and Crucible remarks that although she isn't very useful against the likes of Breed, Murder Rat, Mannequin, or Tyrant, she would be better against different threats.

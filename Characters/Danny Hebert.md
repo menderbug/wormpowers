@@ -1,0 +1,10 @@
+# Danny Hebert
+Danny is not a parahuman, because of this he has no powers, though he has the potential to trigger and almost did several times. He is an able administrator and negotiator however, and occupied a high stress position at work as head of hiring.
+
+If he has triggered, depended on the event that caused him to trigger, he could receive a number of powers based on the Queen Administrator Shard.
+
+If he triggered due to Annette's death, he would become a Master with control over a rat swarm morphed into the form of his wife, which over time he can change into a variety of different and flexible forms beyond simply swarming his opponents and slowly approaches the level of control of Taylor.
+
+If he triggered due to believing he failed as a father to Taylor, he becomes a Changer/Thinker who regurgitates all but the bare minimum of food needed to function into highly intelligent and durable rats which he has explicit control over. It is rather hard to kill the rats that he creates. He has a more generalised control over various rodents, but he has a much easier time controlling the rats he vomits up. He can see through their eyes, sense what they sense, and use them to control the other, general swarms. However, the more rats there are, the smaller his own perspective is, relative to the combined sensory input of all the various rats.
+
+If he triggered due to abuse from his local government, failing his fellow workers and a belief that the city is seemingly hostile to him, he will manifest as a generalised Stranger/Master. Within a 3-4 mile range, he can cause people to become irritated or frustrated, using various small creatures such as insects, arachnids, rats, birds, and fish as vectors for his emotions. If he focuses on a single person, people and animals become irrationally angry at that person. Their life becomes ruined as insects and rodents collect inside their homes and cars, and everyone they meet becomes hostile or even attacks them. With such a power, he could largely remain impossible to find, if not for his anger that eventually causes him to confront the people he is angry with.

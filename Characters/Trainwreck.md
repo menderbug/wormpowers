@@ -1,0 +1,6 @@
+# Trainwreck
+Trainwreck is a case 53 tinker who needed to build himself a body, lacking proper limbs of his own. He is able to slowly shape and shift his bloblike body into working, if slow-moving, pseudopods and could generate energy he could use to power his tinker devices. It is unknown if works powered by him were especially resistant to electromagnetic pulses or similar anti-tinker countermeasures.
+
+He is best described as a "crude" specialty resource combat tinker, who can work with scrap and develop something that works surprisingly well from what should be inferior components. His gear is fairly limited, he is almost incapable of making anything 'fancy', but he can build it fast, build it durable, and he can build it from parts as common as a rusted old car.
+
+In practice Trainwreck largely stuck to using a single set of 'Crude' power armor that he maintained, though he could create other gear and weapons. This suit gave him enough strength and durability to defeat Armsmaster when he caught the protectorate hero by surprise. When he operated as a cape he drove the suit without needing to use proper limbs. His suits limbs do not actually enclose any part of him allowing people like Faultline to sever them with a touch.

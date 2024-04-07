@@ -1,0 +1,8 @@
+# Scapegoat
+Scapegoat "heals" people by means of shifting alternate possibilities and substantiating them into reality, transferring mental and physical afflictions between targets. To do this he uses his own body as a bridge and a reference base for this process, keeping him from absorbing every possible symptom.
+
+Scapegoat's power allows him to dig through potential realities to find uninjured versions of the person he is working on and apply that person's condition to his target. This removes the person's injuries, essentially making it as though they has not suffered them at all. The effect is weaker if the target resists, and can be broken if they are subjected to impacts, injuries or shocks in one to six hours following the procedure. They must stay within 150 feet of him. Once he uses his power, he takes on the injuries of the person he has applied it to. He is even capable of transferring permanent disabilities or power-induced effects.
+
+His power has an offensive application, wherein he can apply the injuries he sustains to an enemy, with a lower chance to revert to him if the enemy is injured.
+
+Experiencing Scapegoat's power is very uncomfortable during the transfer, as you briefly feel a multitude of seemingly-random sensations at the same time.He can concentrate to "seal" a given transfer, reducing the risk and eventually making the transfer permanent. Alternatively, he can concentrate to influence the duration of afflictions he's applied to himself upward or downward. These options are mutually exclusive. Things are harder for him if the subject still has organs that he has has removed.

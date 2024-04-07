@@ -1,8 +1,8 @@
 
 import requests
 import bs4
-import html2text
 import os
+import re
 
 from urllib.parse import urljoin
 
@@ -14,7 +14,9 @@ def get_powers(url):
     soup = bs4.BeautifulSoup(response.text, "html.parser")
 
     abilities_and_powers_header = soup.find("span", id=lambda x: isinstance(x, str) and "abilities" in x.lower())
-    character_name = soup.find("span", {"class": "mw-page-title-main"}).get_text()
+    character_element = soup.find("span", {"class": "mw-page-title-main"}) or soup.find("h1", {"class": "page-header__title"})
+    character_name = character_element.get_text(strip=True)
+
 
     # Initialize an empty list to store the text content
     contents = [f"# {character_name}"]
@@ -41,6 +43,8 @@ def get_powers(url):
 
     # Join the extracted text content into a single string
     result = "\n".join(contents)
+    result = re.sub(r'\bwas\b', 'is', result)
+    result = re.sub(r'\bhad\b', 'has', result)
     filename = os.path.join(directory, f"{character_name}.md")
     with open(filename, "w", encoding="utf-8") as file:
         file.write(result)
@@ -51,11 +55,10 @@ if not os.path.exists(directory):
     os.makedirs(directory)
 
 
-URL = "https://worm.fandom.com/wiki/Character_Reference_Sheet"
-response = requests.get(URL)
-soup = bs4.BeautifulSoup(response.text, "html.parser")
-for row in soup.find_all("th"):
-    tag = row.find("a")
-    if tag:
+URLS = ["https://worm.fandom.com/wiki/Category:Worm_Characters", "https://worm.fandom.com/wiki/Category:Worm_Characters?from=Morrigan%0AThe+Morr%C3%ADgan"]
+for url in URLS:
+    response = requests.get(url)
+    soup = bs4.BeautifulSoup(response.text, "html.parser")
+    for tag in soup.find_all("a", {"class": "category-page__member-link"}):
         link = tag.get("href")
-        get_powers(urljoin(URL, link)) 
+        get_powers(urljoin(url, link)) 
