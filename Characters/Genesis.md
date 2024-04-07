@@ -25,10 +25,10 @@ A grotesquely obese, yellow-skinned "caricature of a sumo wrestler", with eyes l
 
 A griffon/pterodactyl with both arms and wings, capable of hitting Crawler with a car and dropping large pieces of rubble on him. No legs, face is "gargoyle-like".
 
-A ghostly woman wreathed with chains, with white, "smoky" hair that covered her face and talons for hands. She had no lower body extending from the tattered poncho-style cloak she wore, and floated as though she were as light as air. Strong enough to shatter plywood.
+A ghostly woman wreathed with chains, with white, "smoky" hair that covered her face and talons for hands. She has no lower body extending from the tattered poncho-style cloak she wore, and floated as though she were as light as air. Strong enough to shatter plywood.
 
 A giant woman’s face carved out of bone, surrounded by long, thin, branching tentacles. Tough, good for multitasking.
 
-A creature "like a bison with wings, but her back had a bowl-shaped depression, and she had stubby little legs and antennae." Able to fly and carry Trickster in the basin on her back.
+A creature "like a bison with wings, but her back has a bowl-shaped depression, and she has stubby little legs and antennae." Able to fly and carry Trickster in the basin on her back.
 
 A giant image of Eden.

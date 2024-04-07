@@ -1,7 +1,7 @@
 # Breed
-Breed has the ability to create trilobite-like parasites that become more dangerous over time. They emerge at about the size of a lemon from his orifices. He could create nine or ten a day. The original Breed may have had greater skill and power than his clones.
+Breed has the ability to create trilobite-like parasites that become more dangerous over time. They emerge at about the size of a lemon from his orifices. He could create nine or ten a day. The original Breed may have has greater skill and power than his clones.
 
-Despite their arthropod appearance, Breeds trilobites are best understood as organic automata, emulating life without truly 'living', 'running' off of a instinctual programming script. Weaver's power is unable to 'register' and control them, due to the creatures not being around at the time her power was defining what counted as a "bug".
+Despite their arthropod appearance, Breeds trilobites are best understood as organic automata, emulating life without truly 'living', 'running' off of a instinctual programming script. Weaver's power is unable to 'register' and control them, due to the creatures not being around at the time her power is defining what counted as a "bug".
 
 When released they will ignore hard targets and go after the more vulnerable prey and corpses provided they're not already infested. They probably feed exclusively on humans, but they would attack non-edible targets to remove a threat.
 

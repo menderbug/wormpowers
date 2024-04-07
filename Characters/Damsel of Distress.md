@@ -3,7 +3,7 @@ Ashley's power creates chaotic maelstroms of warped spacetime, manifesting as un
 
 Her blasts generate a massive amount of recoil, causing her to be flung backwards each time she uses her power. Ashley eventually learned to use this effect to move at high speeds in ten- to fifteen-foot bursts, allowing her to avoid attacks and giving her a Mover rating. Her power is inherently unpredictable and difficult to control, but some gestures and movements generally produce the same result.
 
-Ashley's power is extremely potent, of the same class as Scrub and close to Flechette's. Yet she never had full control of it, being unable to prevent herself from producing minor flare-ups whenever she became stressed or anxious. Bonesaw's alterations gave Ashley the ability to control her power, along with added range, at the cost of her becoming even more of a monster.
+Ashley's power is extremely potent, of the same class as Scrub and close to Flechette's. Yet she never has full control of it, being unable to prevent herself from producing minor flare-ups whenever she became stressed or anxious. Bonesaw's alterations gave Ashley the ability to control her power, along with added range, at the cost of her becoming even more of a monster.
 
 Completely removing her forearms affects her ability to use her power.
 

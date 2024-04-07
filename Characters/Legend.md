@@ -13,7 +13,7 @@ Spatial distortions can affect Legend's lasers. The Impaler Titan could redirect
 ## Flight
 Legend is one of the fastest, if not the fastest, fliers in-universe. During the Battle against Echidna, Alexandria's clones could not catch up to him when he purposefully flew in loops and circles to find opportunities for taking aim and firing at Echidna's clones. While in motion and flying fast enough to appear as a blur to viewers, Behemoth could not pin him down long enough to target him with his lightning.
 
-Legend can accelerate to a speed that exceeds the speed of sound. However, if he continues accelerating, he automatically transforms into his energy form to survive at these speeds. As a result, Legend deliberately throttles his flight speed to avoid going fast enough to lose conscious control of his movements. Although he wondered if his power was intended for travel on an interstellar level, he never tested this theory or determined if his flight speed had an upper limit or not.
+Legend can accelerate to a speed that exceeds the speed of sound. However, if he continues accelerating, he automatically transforms into his energy form to survive at these speeds. As a result, Legend deliberately throttles his flight speed to avoid going fast enough to lose conscious control of his movements. Although he wondered if his power is intended for travel on an interstellar level, he never tested this theory or determined if his flight speed has an upper limit or not.
 
 During the Battle against Khonsu, Legend and Eidolon managed to get from Japan to Cape Verde in a very short period of time. It is unknown if Eidolon teleported him or if Doormaker opened a portal for them.
 

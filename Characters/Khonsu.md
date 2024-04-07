@@ -12,7 +12,7 @@ When Khonsu summons a time field, a glowing circumference first appears on the g
 
 Summoned time fields orbit around Khonsu; they can move faster than a running person but are slower than a moving car. Thus, a sufficiently fast opponent can dodge his time fields. Khonsu's time fields maintain a steady distance away from him and from each other. However, he can draw them closer or extend the distance in which they orbit around him. Khonsu can also stop their movement and reverse their direction at will.
 
-Khonsu can use his time fields for defensive purposes. He exploded many missiles and shells with his time fields. Khonsu even used the barrier of his time field to block Scion's attacks, though Scion quickly tuned his blasts to pass through this barrier. His time fields also trumped Eidolon's forcefield that was reminiscent of the seemingly inviolable forcefield used to contain Phir Sē's time bomb. Eidolon was unable to break his time fields during Khonsu's debut.
+Khonsu can use his time fields for defensive purposes. He exploded many missiles and shells with his time fields. Khonsu even used the barrier of his time field to block Scion's attacks, though Scion quickly tuned his blasts to pass through this barrier. His time fields also trumped Eidolon's forcefield that is reminiscent of the seemingly inviolable forcefield used to contain Phir Sē's time bomb. Eidolon is unable to break his time fields during Khonsu's debut.
 
 ## Teleportation
 Khonsu can teleport on a global scale; he typically extends his arms out to either side when teleporting. He can use this ability to target key locations and installations. After his initial attack on Japan, he teleported to Cape Verde all the way in Africa. Khonsu's teleportation can also leave behind a massive, tightly contained explosion powerful enough to throw trucks into the air.
@@ -22,4 +22,4 @@ Khonsu appears to perceive the world through temporal disturbances. Like other E
 
 Khonsu can slowly float in any direction to put himself and his time fields in reach of more targets. He appears to waddle when moving; he floats in the air as if he were walking on the moon. Khonsu can also let himself take a sufficiently powerful hit while floating to gain momentum, letting him temporarily move at higher speeds than normal.
 
-If pressed, Khonsu can fight in close quarters. He managed to clip and shatter an antler of Moord Nag's shadow, though was soon knocked down to the ground.
+If pressed, Khonsu can fight in close quarters. He managed to clip and shatter an antler of Moord Nag's shadow, though is soon knocked down to the ground.

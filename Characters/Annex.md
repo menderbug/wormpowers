@@ -3,8 +3,8 @@ Annex can enter a breaker state where he can reshape his body like a liquid. In 
 
 While merged, he takes on the durability of the object.
 
-When merged with an object, his senses were limited to feeling changes in the object: vibrations, temperature etc. He was able to feel the temperature of the surfaces he was interacting with. It may have actually caused heat to leave his body during the interaction with the surface.
+When merged with an object, his senses were limited to feeling changes in the object: vibrations, temperature etc. He is able to feel the temperature of the surfaces he is interacting with. It may have actually caused heat to leave his body during the interaction with the surface.
 
-His power was limited to a short range around his body.
+His power is limited to a short range around his body.
 
-His recruitment allowed the Chicago wards to go full out in wrecking their environment. Allowing Annex and Cuff to fix it later. His powers synergized well with Shuffle, although they had to be careful with how their powers interacted.
+His recruitment allowed the Chicago wards to go full out in wrecking their environment. Allowing Annex and Cuff to fix it later. His powers synergized well with Shuffle, although they has to be careful with how their powers interacted.

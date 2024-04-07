@@ -1,6 +1,6 @@
 # Cricket
 ## Personal Sonar
-Cricket can hear subsonic noises and thus sense higher pitched sounds than normally possible for humans, such as the frequency that indicated Shatterbird was using her abilities. It is possible she would be able to hear things like dog whistles as well.
+Cricket can hear subsonic noises and thus sense higher pitched sounds than normally possible for humans, such as the frequency that indicated Shatterbird is using her abilities. It is possible she would be able to hear things like dog whistles as well.
 
 Cricket can generate staccato pulses of subsonic noise to act as a form of radar. This echolocation allows her to orient herself in combat; she is one of the few people relatively unaffected by Grue's original darkness. Although Grue's darkness dampens sound, her senses include Shard-assisted sound analysis/hearing.
 

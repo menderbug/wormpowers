@@ -5,6 +5,6 @@ Mimi's pyrokinesis is extremely versatile. She created concussive fire blasts ca
 
 Using her power adjusts the chemical balances and connections in her brain to reduce her empathy, impulse control, and emotion, so she "can’t help" using her power if there’s fire nearby. This creates a cycle where Mimi is increasingly unlikely to stop using her power the more she uses it.
 
-Mimi's eyes glowed and would occasionally flash orange when her power was active.
+Mimi's eyes glowed and would occasionally flash orange when her power is active.
 
-Bonesaw also modified members of the Nine with various "safeguards"; sheathing their vital organs and major arteries in a protective sub-dermal mesh, further wire reinforcement was put into the skeleton to avoid broken bones, with special attention was paid to the organs and spine to keep them functioning. She also rendered her teammates resistant to her pathogens, and granting them artificial neurons which allowed them to make plans Cherish could not see, it is unknown if this could be adapted for other Master powers.
+Bonesaw also modified members of the Nine with various "safeguards"; sheathing their vital organs and major arteries in a protective sub-dermal mesh, further wire reinforcement is put into the skeleton to avoid broken bones, with special attention is paid to the organs and spine to keep them functioning. She also rendered her teammates resistant to her pathogens, and granting them artificial neurons which allowed them to make plans Cherish could not see, it is unknown if this could be adapted for other Master powers.

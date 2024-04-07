@@ -1,5 +1,5 @@
 # Theo Anders
-Theo received martial arts training from Crusader though Crusader was initially dismayed with Theo's poor form, and further training for his powers under the mentor-ship of Weaver during their time with the Chicago Wards. Theo lost all his sparring matches with Weaver barring one near the deadline for the end of the world, which he suspects to be an intentional loss from Weaver in an attempt to encourage him.
+Theo received martial arts training from Crusader though Crusader is initially dismayed with Theo's poor form, and further training for his powers under the mentor-ship of Weaver during their time with the Chicago Wards. Theo lost all his sparring matches with Weaver barring one near the deadline for the end of the world, which he suspects to be an intentional loss from Weaver in an attempt to encourage him.
 
 Theo has the ability to embed his limbs into a surface in order to create larger versions some distance away from surfaces with a similar material. Theo is able to use this power with his face though this is not considered useful. The effect works more slowly the larger he works. Theo's power is not hampered by wearing gauntlets or boots as his powers extends through them, resulting in large gauntlets and boots being created when Theo sinks his limbs into surfaces while wearing his costume.
 

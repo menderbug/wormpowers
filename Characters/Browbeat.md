@@ -2,7 +2,7 @@
 Browbeat has two powers - short-range telekinesis and biokinesis; his abilities are mutually reinforcing. Further in the face of a Power cancelling Trump that affects one aspect of his powers the other half would generally need a separate counter.
 
 ## Telekinesis
-His telekinesis is a personal force field with some crude control, having a multiplicative effect on his physical strength. While also having a noticeable defensive aspect, given that he was theoretically durable enough to survive damage from Leviathan, and could have survived the Battle against Echidna.
+His telekinesis is a personal force field with some crude control, having a multiplicative effect on his physical strength. While also having a noticeable defensive aspect, given that he is theoretically durable enough to survive damage from Leviathan, and could have survived the Battle against Echidna.
 
 This also justifies his striker rating.
 

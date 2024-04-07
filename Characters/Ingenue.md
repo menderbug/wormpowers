@@ -3,4 +3,4 @@ Ingenue's power works by boosting one aspect of someone's power in exchange for 
 
 Ingenue can also change her personality into her target's 'ideal woman' which makes manipulating them easier. It is also possible she could see a person's abilities like Chevalier could, if in a more detailed and specific way.
 
-Reliable application of power requires physical contact, though this limitation was later removed by Teacher
+Reliable application of power requires physical contact, though this limitation is later removed by Teacher

@@ -3,7 +3,7 @@ Mark's power allows him to create bouncing orbs of light that can detonate eithe
 
 Similar to Brandish, Flashbang has shown some resistance to blinding lights.
 
-He was severely devastated by a brain injury, but was able to get around it thanks to Panacea's intervention.
+He is severely devastated by a brain injury, but is able to get around it thanks to Panacea's intervention.
 
 ## Equipment
 He generally carries everything his team might need.

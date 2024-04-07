@@ -2,7 +2,7 @@
 ## Death Touch and Collection
 If desired, Ciara can collect imprints of parahumans using a touch-based ability on their body, killing the person in the process. On one occasion, she killed a mercenary by touching the crystal shell he enclosed around himself right before he could escape.
 
-Ciara can also seemingly collect imprints of parahumans who die within a unknown range of her, as she was shown to have had Bakuda and Grue in her collection despite not being in their immediate vicinity around the time of their deaths to touch them. However, she can avoid collecting a nearby deceased parahuman. It is implied by Ms. Yamada that Ciara had the ability to steal powers even before her second trigger, so what the exact changes to her power were before and after her second trigger are unknown.
+Ciara can also seemingly collect imprints of parahumans who die within a unknown range of her, as she is shown to have has Bakuda and Grue in her collection despite not being in their immediate vicinity around the time of their deaths to touch them. However, she can avoid collecting a nearby deceased parahuman. It is implied by Ms. Yamada that Ciara has the ability to steal powers even before her second trigger, so what the exact changes to her power were before and after her second trigger are unknown.
 
 ## Control of Parahuman Shadows
 At any one time, she can have the parahumans she has ‘claimed’ manifest as ghostly specters, complete with the ability to physically affect the world and use their powers; she normally limits herself to two or three, but can maintain more than that at the cost of significantly reduced individual power. They are seemingly limited to her immediate presence, and she can create multiple copies of a ghost through a duplicator ghost. She made twenty to thirty copies of a ghost, and later created multiple copies of Grey Boy.
@@ -14,7 +14,7 @@ When they try to speak, their voices sound faint and incoherent to others, as if
 She draws power from her dormant shards, and feeds her active projections with that power. Even when they are not visible, she still has three projections "active".
 
 illustration by CNJLC
-By the end of Worm, she has absorbed the powers of countless capes, including Eidolon. With Eidolon's ghost increasing the number of powers she can wield at once from three to five, and several more if Eidolon's powers are weaken by him using too many powers or Ciara summoning too many phantoms, she is now indisputably the most powerful parahuman in existence. Even before his death, Eidolon himself speculated that she had grown to surpass him in power. However, as of Ward, she seems reluctant to use Eidolon, stating his "battery is almost empty", and that recharging it would be "more trouble than it was worth". She was able to escape Khepri's control by forcing her to control one of her spirits instead of herself, possibly using that spirit's power.
+By the end of Worm, she has absorbed the powers of countless capes, including Eidolon. With Eidolon's ghost increasing the number of powers she can wield at once from three to five, and several more if Eidolon's powers are weaken by him using too many powers or Ciara summoning too many phantoms, she is now indisputably the most powerful parahuman in existence. Even before his death, Eidolon himself speculated that she has grown to surpass him in power. However, as of Ward, she seems reluctant to use Eidolon, stating his "battery is almost empty", and that recharging it would be "more trouble than it is worth". She is able to escape Khepri's control by forcing her to control one of her spirits instead of herself, possibly using that spirit's power.
 
 ## Power Vision
 Ciara possesses a secondary Thinker power, much like Chevalier and Ingenue, that allows her to recognize the carriers of other shards and see phantom images surrounding the empowered, but it is way more sensitive, including ability to sense distant parahumans through walls and at great distances.  She is capable of recognizing the details of how individual powers work by analyzing their phantoms.
@@ -24,7 +24,7 @@ Ciara is unable to personally use the powers of collected capes. By default, she
 
 She could not engage Mama Mathers and her group, presumably because Mama Mathers would affect her power vision and any senses from her shadows that perceived her. Without outside interference, Jack Slash's secondary power prevents her from killing him.
 
-She has to collect capes to amass power; Eidolon at his prime dwarfed her in power. Even during Gold Morning, Ciara believed Eidolon was stronger than her.
+She has to collect capes to amass power; Eidolon at his prime dwarfed her in power. Even during Gold Morning, Ciara believed Eidolon is stronger than her.
 
 Capes that she resurrects with the help of Bonesaw and Nilbog are no longer in her collection. To mitigate this loss of power, those resurrected agree to provide Ciara their assistance as members of her flock.
 

@@ -7,9 +7,9 @@ She interprets emotions as a form of "music" that comes from the mind and body o
 Although Cherish could not see or hear Imp, she could still detect Imp via her emotion sense. She has a hard time tracking Mannequin.
 
 ## Emotion Manipulation
-When close enough, she can induce emotional states in her targets at will. While her power did not have natural long term effects, she could build up a dependency over time within a target by 'dosing' them repeatedly until their brain conditioned itself. Presumably this is how she can get a crowd of boys to act as her personal entourage when she was shopping.
+When close enough, she can induce emotional states in her targets at will. While her power did not have natural long term effects, she could build up a dependency over time within a target by 'dosing' them repeatedly until their brain conditioned itself. Presumably this is how she can get a crowd of boys to act as her personal entourage when she is shopping.
 
-Unlike her father, Cherish's power does not require line of sight. Her emotion manipulation range is around 1000 feet: Cherish was able to affect Ballistic at that distance, and on another occasion, she was able to affect people from the building next door. However, she has less range than Skitter and Shatterbird. Cherish's power is also less effective the farther she is from her targets.
+Unlike her father, Cherish's power does not require line of sight. Her emotion manipulation range is around 1000 feet: Cherish is able to affect Ballistic at that distance, and on another occasion, she is able to affect people from the building next door. However, she has less range than Skitter and Shatterbird. Cherish's power is also less effective the farther she is from her targets.
 
 It is possible for very experienced individuals specifically trained against Stranger and Master powers to semi-effectively tough out the effects of her emotion manipulation.
 
@@ -19,4 +19,4 @@ Due to being an emotion-manipulating Master, Cherish is unable to effectively ma
 Emotion-manipulating capes typically have some degree of resistance to her emotion manipulation (e.g., 80-100% depending on how connected they are to their passengers at the time), and vice versa. For example, Gallant would fuzz her emotion map, and his blasts against her victims could either stop them from acting or dispel the effects of her emotion manipulation. However, she in turn would not really be affected by the emotional aspects of his blasts, though the concussive aspects would still be effective against her. Victoria, who pinged off Gallant, would presumably also resist being read or influenced by Cherish; Cherish would presumably resist Victoria's aura as well.
 
 ## Other Abilities
-A side benefit of her powers was that she could pick up languages easily, since she could already intuit the meaning behind the words. She speaks Latin, and presumably speaks French as a native of Quebec.
+A side benefit of her powers is that she could pick up languages easily, since she could already intuit the meaning behind the words. She speaks Latin, and presumably speaks French as a native of Quebec.

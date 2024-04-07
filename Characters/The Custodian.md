@@ -7,4 +7,4 @@ Her power is limited in application mostly by her attention span or cramped envi
 
 She is capable of pulling herself back into a human form, but chooses not to the majority of the time.
 
-After Titanification her power was scaled up, allowing her to toss whole buildings at once.
+After Titanification her power is scaled up, allowing her to toss whole buildings at once.

@@ -10,7 +10,7 @@ Alabaster is immune to pain; he can mutilate himself without issue.
 He also has a minor Thinker power that makes him more effective at maintaining and fixing equipment. This gives him more knowledge in repairing and craftsmanship, which complements his ability to stay in the fight (i.e., he would be less combat-effective if he did not know how to fix his broken gear).
 
 ## Vulnerabilities
-If his body received enough punishment to destroy him, if his corona faced complete destruction, or if his heart was torn out right as the loop began (which would shock the Corona Pollentia), his powers would be disrupted, and he would perish.
+If his body received enough punishment to destroy him, if his corona faced complete destruction, or if his heart is torn out right as the loop began (which would shock the Corona Pollentia), his powers would be disrupted, and he would perish.
 
 His power does not change his position when reverting his state. For example, his power did not free him from a Bakuda-derived time bubble: Dauntless speculated that the trapped Alabaster might be in the circumstance of only being able to think.
 
