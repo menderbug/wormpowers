@@ -1,0 +1,6 @@
+# Gasconade
+Gasconade is the type of breaker who is always active, never leaving the state. This means the breaker state abilities are also active. Notably any object he interacts with is imbued with energy, reverting back to its prior condition and location after a set duration of about half a minute. This serves to severely disorient people he uses lethal force on.As a hypothetical example of how his power works: Were he to take a battle-ax and start beheading people they would 'reset' to their previous undamaged state, fully cognizant about what occurred.
+
+As a secondary benefit of his power he does not need to eat, sleep, or excrete, classifying him as a Noctis cape. This has allowed him to maintain a fierce work schedule, keeping pressure on the criminal element of his city and gather information about them. PRT regulations have bent to accommodate Gasconade's unique situation.
+
+It is very hard for anyone or any ability to harm him, as he will simply reset back to his prior condition. This combined his his ability to disable but not kill lets him function as a point man and delaying tactic who can pair up against the more dangerous opponents. Justifying his Stranger rating, and functioning much like Alabaster does for the E88.

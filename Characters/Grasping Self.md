@@ -1,0 +1,4 @@
+# Grasping Self
+Grasping Self primarily manifests as a Tinker ability, specialising in limbs and prosthetics. The various capes with access to its abilities were given slightly different variations on this theme.
+
+Within the dream room, Grasping Self self is able to manifest an endbringer-like avatar, though small in scope and power. Using its many limbs, it is able to use materials like wood and rebar to tinker up about twenty devices with different capabilities in only a few minutes. The devices were able to form a variety of limbs in more esoteric forms than what its hosts are capable of. One of them formed a bird talon made of fire, capable of melting metal badly burning someone. Another formed cables that could grab and tangle up people, and yet another phantom handprints that crushed gravel. 

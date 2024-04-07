@@ -1,0 +1,2 @@
+# Chugalug
+Chugalug is a garbage processor, or trash changer. He gathers detrius and sewage into a body that can be configured into different forms. He gathers this trash by consuming or 'chugging' it, turning it into any solid, gas, or liquid that he may require, in far greater quantities than what is consumed. He has some power synergy with Barfbat, whose superhuman vomit works as the kind of trash that adds to his body.

@@ -1,0 +1,12 @@
+# Byron Vera
+Capricorn is a matter creator; both Tristan and Byron generate and shape glowing energy that they then transform into their respective element. These start out as motes that then have lines link up between them which then become their respective element. Tristan makes rock, Byron makes water. They can swap identities rapid fire if they have to. The swapping has mixed results as anti-master measure. But it has been known to affect physical forces, granting some maneuverability.
+
+They are able to create enough material for things like a fort. And can shape the material around single objects and people. It is unknown if it can be safely carried out on living objects. What they can do is for Byron to spray people with water and then switch to Tristan to turn the water into rock and encase the subject. This switch can only happen if the shapes are "alive" with more energy to back it up. If they let it die a switch can not happen. Water evaporates and the stone easily crumbles.
+
+Tristan and Byron possess different moderately enhanced physical abilities. Byron has a bit of resistance to temperature extremes, meaning he can withstand greater cold and greater heat than most people can. Byron also has an enhanced way of breathing, as shown by his being able to continue speaking while being choked out.
+
+Interestingly, their powers took on its present form after they has fully assumed their cape identity from the previous holder. Previously, Byron could create ice or suffocating gas rather than water, and Tristan initially formed metal. During Byron's imprisonment, Tristan created chains of spikes which moved of their own accord, lashing out at their surroundings. The properties of the matter they create seemed to be related to the brothers' relationship with each other.
+
+After things were damaged in the Firmament, Byrons power changed. Byron now creates motes with a more teal colour, that spawn a gaseous cloud that freezes everything it touches, before consolidating into an abstract ice sculpture. Now when changing back into Tristan, the cloud of gas doesn't fully disappear, and a building of Tristans power will burst out.
+
+After the death of his brother, Byrons abilities changed once again. He is now capable of creating dark blue motes that result in a solid, coral-like matter that appears to be made of ice, stone, and organic matter. He also creates light blue motes that result in the freezing mist that he has previously.

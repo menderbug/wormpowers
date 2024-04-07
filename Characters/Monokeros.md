@@ -1,0 +1,6 @@
+# Monokeros
+Monokeros can apply her power to a nearby individual she is aware of, with a brief period between each selection. While under the effect of her power, the individual is attacked with an overwhelming wave of emotion, typically admiration for Monokeros. This feeling is comparable to the awe from Victoria's aura at max power, but purer and stronger. Similar to Victoria, this wave of emotion does not have long-lasting effects. It is also possible to resist for a time. For example, Lookout has prior experience dealing with obsessive and overwhelming feelings; not only did Monokeros fail to get Lookout to kill herself, but Lookout is still able to attack her.
+
+While an individual is under the effect of her power, Monokeros also gains protections against that target, becoming immune to anything and everything that individual does. She also has clairvoyance through their eyes and can psychometrically observe their history/memories. Note that this psychometry is inaccurate, though it can ramp up with time.
+
+She can only affect one person at a time. Monokeros must point at or lock eyes with a nearby individual to apply her power on them. Thus, she is unable to use her power on Blindside. Monokeros can fire her power while blinded, but she still has to face potential targets and point in their direction.

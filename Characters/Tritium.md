@@ -1,0 +1,2 @@
+# Tritium
+Tritium is an Alexandria package cape. She has enough super strength to hold back a punch from a Titan or to punch through a building, she is ostensibly invincible, and she is capable of flight. However, her abilities come with the unfortunate side effect of being radioactive. The harder she fights, the more radioactivity she builds around herself, although she is immune to its effects. She labels her punches as 'Nuke punches' as a result.
